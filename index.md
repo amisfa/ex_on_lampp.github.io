@@ -44,7 +44,7 @@ make
 sudo make install
 ```
 
-//finally add below line to /opt/lampp/etc/php.ini
+finally add below line to /opt/lampp/etc/php.ini
 ```markdown
 extension="redis.so"
 ```
