@@ -24,12 +24,12 @@ locate redis-5.3.2.tgz
 ```
 
 
-If locate can't found your package link you must update database of locate whith this command(By default it is updated once in a day):
+If "locate" can't found your package link you must update database of "locate" whith this command(By default it is updated once in a day):
 ```markdown
 sudo updatedb
 ```
 
-Now get link and go to the file directory(you can save this file where you want, we suppos file in this link : /home/user/Downloads/lampp_extensions/redis-5.3.2.tgz
+Now get link and go to the file directory(you can save this file anywhere you want, we suppos file in this link : /home/user/Downloads/lampp_extensions/redis-5.3.2.tgz
 ):
 ```markdown
 cd /home/user/Downloads/lampp_extensions
